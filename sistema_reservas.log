@@ -1,0 +1,6 @@
+2026-11-17 21:37:12,647 [ERROR] - Intento de registrar cliente con correo inválido: correo-sin-arroba
+2026-11-17 21:37:12,650 [INFO] - Reserva R01 confirmada exitosamente para el cliente Carlos Pérez.
+2026-11-17 21:37:12,651 [INFO] - Reserva R02 confirmada exitosamente para el cliente Carlos Pérez.
+2026-11-17 21:37:12,652 [ERROR] - Error de servicio al confirmar reserva R03: Las horas de reserva de sala deben ser mayores a cero.
+2026-11-17 21:37:12,653 [INFO] - Reserva R01 cancelada correctamente.
+2026-11-17 21:37:12,654 [WARNING] - Intento fallido de cancelar la reserva R01 que ya estaba cancelada.
